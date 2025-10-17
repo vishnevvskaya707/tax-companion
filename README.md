@@ -1,5 +1,5 @@
 # Tax Companion
-![Static Badge](https://img.shields.io/badge/yamako-TaxCompanion-TaxCompanion)
+![Static Badge](https://img.shields.io/badge/vishnevvskaya-TaxCompanion-TaxCompanion)
 ![Python Version](https://img.shields.io/badge/Python-3.12.4-blue.svg)
 ![GAS Runtime](https://img.shields.io/badge/GAS-V8-green.svg)
 
